@@ -222,3 +222,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# 模型
+embedding/bge-large-zh-v1.5/
